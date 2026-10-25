@@ -1,0 +1,8 @@
+[submodule "HIAST.Transportation.UI"]
+	path = HIAST.Transportation.UI
+	url = https://github.com/ahmadabdelbary2001/HIAST.Transportation.UI.git
+	branch = main
+[submodule "HIAST.Transportation.Clean"]
+	path = HIAST.Transportation.Clean
+	url = https://github.com/ahmadabdelbary2001/HIAST.Transportation.Clean.git
+	branch = main
